@@ -5,7 +5,6 @@ Criar um banco de dados para representar os alunos de uma turma, aplicando os co
 ### Situação-problema
 
 A escola deseja organizar as informações dos alunos de uma determinada turma em um banco de dados.
-Sua equipe deverá criar uma representação dos dados da turma e, posteriormente, transformar essa representação em um banco de dados utilizando MySQL.
 
 # Tabela de Dados
 
@@ -14,7 +13,7 @@ Crie uma tabela de dados contendo pelo menos 3 alunos da turma.
 A tabela deverá conter: 
 
 <div>
-  <img src = ""
+  <img src = "https://github.com/eduardomorettiv/Atividade-Banco-de-Dados/blob/ab7a685d959af7a2351c0ce318df0134113acb18/Captura%20de%20tela%202026-09-10%20101803.png"
 </div>
   
 # MER — Modelo Entidade-Relacionamento
