@@ -13,7 +13,7 @@ Crie uma tabela de dados contendo pelo menos 3 alunos da turma.
 A tabela deverá conter: 
 
 <div>
-  <img src = "https://github.com/eduardomorettiv/Atividade-Banco-de-Dados/blob/ab7a685d959af7a2351c0ce318df0134113acb18/Captura%20de%20tela%202026-09-10%20101803.png"
+  <img src = "https://github.com/eduardomorettiv/Atividade-Banco-de-Dados/blob/436d7e0fa25b7b8e486bbeeb174e93dbfc654e61/bcd.png"
 </div>
   
 # MER — Modelo Entidade-Relacionamento
