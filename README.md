@@ -13,14 +13,9 @@ Crie uma tabela de dados contendo pelo menos 3 alunos da turma.
 A tabela deverá conter: 
 
 <div>
-  <img src = "https://github.com/eduardomorettiv/Atividade-Banco-de-Dados/blob/436d7e0fa25b7b8e486bbeeb174e93dbfc654e61/bcd.png"
+  <img src = "https://github.com/eduardomorettiv/Atividade-Banco-de-Dados/blob/436d7e0fa25b7b8e486bbeeb174e93dbfc654e61/bcd.png">
 </div>
-<div>
-  | Campo | Exemplo |
-  | --- | --- |
-  |Dado A | Dado B |
-</div>
-  
+
 # MER — Modelo Entidade-Relacionamento
 
 Com base na tabela criada, desenvolva o MER do sistema.
