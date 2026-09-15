@@ -29,7 +29,7 @@ O modelo deverá apresentar:
 
 . Relacionamentos, caso sejam criados mais elementos no modelo
 
-# DER Conceitual
+# DER - Diagrama Entidade-Relacionamento
 
 A partir do MER, desenvolva o DER Conceitual, representando graficamente a estrutura do banco de dados.
 
@@ -106,5 +106,3 @@ ALTER TABLE alunos ADD CONSTRAINT pertence FOREIGN KEY (id_turma) REFERENCES tur
 **3.** DER Conceitual
 
 **4.** Código MySQL
-
-
